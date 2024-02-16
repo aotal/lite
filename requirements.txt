@@ -33,6 +33,7 @@ jupyterlab-geojson>=3.4.0,<4
 jupyterlab-night
 # JupyterLab: Miami nights theme (optional)
 jupyterlab_miami_nights
+imjoy_jupyterlab_extension
 
 # Python: ipywidget library for Jupyter notebooks (optional)
 ipywidgets>=8.1.1,<9
